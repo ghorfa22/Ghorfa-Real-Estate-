@@ -1,6 +1,6 @@
 # Ghorfa Real Estate
 Digital Marketing project for Ghorfa Marketing team under the supervision of Digital Egypt Pioneers Initiative (Eng.Ashraf Rouby )
-![Project Banner](https://i.imgur.com/V9RZw06.png)
+![Project Banner](https://res.cloudinary.com/dxxuy0clw/image/upload/v1748014718/Neutral_Minimalist_Name_LinkedIn_Article_Cover_Image_aiknur.png)
 ## Team Member 
 - Aseam Kilany 
 - Zeyad Ahmed 
